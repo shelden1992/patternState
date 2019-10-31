@@ -226,3 +226,21 @@ INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent 
 INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
 INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
 INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Sorry, but your Grant NOT approved
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, NOT push to next check 
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Sorry, but your Grant NOT approved

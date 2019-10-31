@@ -4,6 +4,9 @@ import org.apache.log4j.Logger;
 import org.courses.AbstractGrant;
 import org.courses.Applicant;
 import org.courses.Grant;
+import org.courses.stateGrant.ConfirmedSt;
+import org.courses.stateGrant.ConsideredSt;
+import org.courses.stateGrant.CreatedSt;
 import org.courses.stateGrant.checkLogic.Verification;
 import org.courses.stateGrant.enums.GrantStatus;
 
@@ -13,7 +16,7 @@ import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 
 
-public class GrantWebPage implements GrantContext, Runnable {
+public class GrantWebPage implements GrantContext, GrantCreator, Runnable {
     private static final Logger LOG = Logger.getLogger(GrantWebPage.class);
     private static final GrantWebPage INSTANCE = new GrantWebPage();
     private Map<Applicant, Set<AbstractGrant>> applicantAndGrant;
@@ -103,5 +106,13 @@ public class GrantWebPage implements GrantContext, Runnable {
                 }
             });
         }
+    }
+
+
+    @Override
+    public Grant createdGrant(Applicant applicant, String description) {
+        Grant grant = new Grant(new CreatedSt(new ConsideredSt(new ConfirmedSt())), description);
+        addGrant(applicant, grant);
+        return grant;
     }
 }
