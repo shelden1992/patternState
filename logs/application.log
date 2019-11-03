@@ -1,0 +1,246 @@
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant org.courses.Applicant@9c3bcbb9, [org.courses.Grant@71bbf57e]
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+INFO main org.courses.grantContext.GrantWebPage - Sorry, but this grant is missing
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+INFO main org.courses.grantContext.GrantWebPage - Delete grant Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk'], in applicant Applicant[name='Den', surname='Vasia', education='Er'])
+INFO main org.courses.grantContext.GrantWebPage - Remove applicant Applicant[name='Den', surname='Vasia', education='Er'], because set of grant is empty
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Vasia', education='Er'], [Grant[state=org.courses.stateGrant.CreatedSt@184f6be2, description='<kfkfk']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Commission decision push to next check true
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Commission decision push to next check true
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, NOT push to next check 
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS CONSIDERED
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS CONFIRMED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Sorry, but your Grant NOT approved
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Sorry, but your Grant NOT approved
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, NOT push to next check 
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Status Grant CONFIRMED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Get congratulation you Grant approved CONFIRMED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO main org.courses.grantContext.GrantWebPage - Delete grant Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant'], in applicant Applicant[name='Den', surname='Shel', education='Ecology'])
+INFO main org.courses.grantContext.GrantWebPage - Remove applicant Applicant[name='Den', surname='Shel', education='Ecology'], because set of grant is empty
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Sorry, but your Grant NOT approved
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO main org.courses.grantContext.GrantWebPage - Delete grant Grant[state=org.courses.stateGrant.CreatedSt@1f7030a6, description='Ecology grant'], in applicant Applicant[name='Den', surname='Shel', education='Ecology'])
+INFO main org.courses.grantContext.GrantWebPage - Remove applicant Applicant[name='Den', surname='Shel', education='Ecology'], because set of grant is empty
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Sorry, but your Grant NOT approved
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, NOT push to next check 
+DEBUG main org.courses.grantContext.GrantWebPage - Put into applicantAndGrant Applicant[name='Den', surname='Shel', education='Ecology'], [Grant[state=org.courses.stateGrant.CreatedSt@5a1c0542, description='Ecology grant']]
+DEBUG main org.courses.grantContext.GrantWebPage - Status grant = CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Now the grant has been sent for verification, check back later GRANT STATUS CREATED
+INFO Thread-0 org.courses.stateGrant.CreatedSt - Status Grant CREATED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConsideredSt - Status Grant CONSIDERED, push to next check 
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Now the grant has been sent for verification, check back later GRANT STATUS
+INFO Thread-0 org.courses.stateGrant.ConfirmedSt - Sorry, but your Grant NOT approved
